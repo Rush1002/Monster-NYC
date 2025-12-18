@@ -1,1 +1,2 @@
 This is my pairs trading program that I customized during my internship at Northrock Capital to find potential companies to pair trade with MNST.
+However, I have spent some time redoing it a year and a half later. The file 2025 Updated Notebook shows the new and improved version. The other file shows my original version. While neither version is perfect, the updated version is significantly better.
