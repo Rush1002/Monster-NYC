@@ -1,6 +1,6 @@
 # Pairs Trading Strategy: MNST Correlation Screening + Cointegration Testing
 
-Statistical pairs trading pipeline combining correlation screening with cointegration validation. Developed during an internship at Northrock Capital and significantly updated in December 2025.
+Statistical pairs trading pipeline combining correlation screening with cointegration validation. Developed during an internship at Northrock Capital during June 2024 and later updated in December 2025.
 
 ## Overview
 
