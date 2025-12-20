@@ -159,23 +159,6 @@ seaborn >= 0.12.0
 scipy >= 1.11.0
 ```
 
-## Usage
-
-Open `2025_Updated_Notebook.ipynb` in Jupyter and run cells sequentially:
-
-```python
-# Configure target and peers
-TARGET_STOCK = 'MNST'
-PEER_STOCKS = ['BUD', 'STZ', 'SAM', 'TAP', 'CELH', 'PEP', 'KO', 'KDP', 'ABEV', 'MGPI', 'WVVI', 'SBUX']
-
-# Run pipeline - outputs cointegrated pairs and backtest results
-```
-
-## Output Files
-
-- `cointegration_screening_results.csv` — All tested pairs with statistics
-- `pairs_trading_results.csv` — Daily backtest results for selected pair
-
 ## Author
 
 Rush Shah  
